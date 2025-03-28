@@ -1,5 +1,5 @@
 # 🌟 Biryani Box
-A simple and responsive website for a fictional biryani restaurant, built using **HTML** and **CSS**.  
+A simple website for a fictional biryani restaurant, built using **HTML** and **CSS**.  
 [🌐 Live Demo](https://praaanaav.github.io/Biryani-Box/)
 
 ---
